@@ -1,5 +1,6 @@
 # Hi, I'm Ngoc Nguyen 👋 
-*Pronouns: /Ngawk Ngwin/* 😄 
+*Pronouns: /Ngawk Ngwin/* 😄
+
 I enjoy building practical software, from fullstack apps to automation and infrastructure.
 
 ## Tech
