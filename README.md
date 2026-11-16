@@ -1,4 +1,1 @@
-#### Hi, I'm Ngoc Nguyen 👋
-*Pronouns: /Ngawk Ngwin/* 😄
-
-I'm a cat person 😄
+#### Hi, welcome to my Purr-radise 👋
